@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.cheryla1246.twa",
+    "sha256_cert_fingerprints": ["B3:5D:9B:6E:28:CA:4D:5F:37:F6:A5:DD:23:5A:FF:2F:4D:7B:0D:FE:80:0C:34:71:EC:15:30:4E:14:7C:58:B4"]
+  }
+}]
